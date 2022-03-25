@@ -1,0 +1,57 @@
+[
+    {
+      "id": 1,
+      "name": "Realistic Isolated",
+      "img": "https://img.freepik.com/free-vector/guitar-realistic-isolated_1284-4825.jpg?t=st=1648219648~exp=1648220248~hmac=a29f3c20026c9022d9f0afafb38cbe77b7ceb298a144607e783eddad82af6711&w=740",
+      "price": "900"
+    },
+    {
+      "id": 2,
+      "name": "Electric Guiter",
+      "img": "https://img.freepik.com/free-photo/electric-guitar-isolated-white-background_93675-131180.jpg?t=st=1648223243~exp=1648223843~hmac=4d1e5f7002729da988a6d2f1fa9bf14d071751d9e71f4b9d7b0e584ade16b053&w=360",
+      "price": "1200"
+    },
+    {
+      "id": 3,
+      "name": "Red & White Electric",
+      "img": "https://img.freepik.com/free-photo/red-electric-guitar-isolated-white-background_210545-1230.jpg?w=360",
+      "price": "1500" 
+    },
+    {
+      "id": 4,
+      "name": "Red Electric",
+      "img": "https://img.freepik.com/free-photo/red-electric-guitar-isolated-white-background_210545-1242.jpg?w=360",
+      "price": "1700"
+    },
+    {
+      "id": 5,
+      "name": "Wooden Acoustic Guiter",
+      "img": "https://img.freepik.com/free-photo/wooden-acoustic-guitar-isolated-white-background_210545-1240.jpg?w=360",
+      "price": "1000"
+    },
+    {
+      "id": 6,
+      "name": "Black Electric",
+      "img": "https://img.freepik.com/free-photo/black-electric-guitar-isolated-white-background_210545-1243.jpg?w=360",
+      "price": "1450"
+    },
+    {
+      "id": 7,
+      "name": "Wooden Modern Acoustic",
+      "img": "https://img.freepik.com/free-photo/wooden-acoustic-guitar-isolated-white-background_210545-1171.jpg?w=360",
+      "price": "1300"
+    },
+    {
+      "id": 8,
+      "name": "Red Modern Electric",
+      "img": "https://img.freepik.com/free-photo/red-electric-guitar-isolated-white-background_210545-1192.jpg?w=360",
+      "price": "1900"
+    },
+    {
+      "id": 9,
+      "name": "Yellow Electric",
+      "img": "https://img.freepik.com/free-photo/wooden-electric-guitar-isolated-white-background_210545-1211.jpg?w=360",
+      "price": "2200"
+    }  
+    
+  ]
