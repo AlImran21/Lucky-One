@@ -1,9 +1,9 @@
 import React from 'react';
 import './Product.css'
 import {BsFillCartPlusFill} from 'react-icons/bs';
-const Product = ({product}) => {
+const Product = ({product, handleAddToCart}) => {
     const {name, img, price} = product;
-    console.log (name);
+    // console.log (name);
     return (
         <div className='product'>
             <img src={img} alt="" />
@@ -11,7 +11,7 @@ const Product = ({product}) => {
                     <p className='product-name'>{name}</p>
                     <p className='product-price'>Price: ${price}</p>
                 </div>
-                <button className='btn-cart'>
+                <button className='btn-cart' onClick={() => handleAddToCart(product)}>
                     <p className='btn-text'>Add to cart</p>
                     <BsFillCartPlusFill className='icon' />
                 </button>

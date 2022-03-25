@@ -8,12 +8,13 @@
     grid-gap: 45px;
     margin: 100px 50px;
 }
-.cart-container {
+.order-details-container {
+    padding: 20px;
     /* height: 100%;
     position: fixed;
     top: 10;
     right: 120px; */
-    background-color: rgba(255, 224, 179, 1);
+    background-color: #8f8a838e;
 }
 
 @media screen and (max-width:1100px) {
