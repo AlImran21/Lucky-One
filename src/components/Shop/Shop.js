@@ -32,15 +32,19 @@ const Shop = () => {
 
             </div>
             <div className="order-details-container">
-                <h2>Selected Product</h2>
+                <h2>Selected Items</h2>
                 {
                     orders.map (order => <Order
                     key={order.id}
                     order={order}
                     ></Order>)
                 }
+                <button className='choose-btn'>
+                    <p>CHOOSE 1 FOR ME</p>
+                </button>
               
             </div>
+            
             
         </div>
     );
