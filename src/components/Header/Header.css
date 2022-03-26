@@ -1,0 +1,8 @@
+@media only screen and (max-width:700px) {
+    .header-title {
+        text-align: center;
+    }
+    .mini-header {
+        text-align: center;
+    }
+   }
