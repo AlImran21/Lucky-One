@@ -24,6 +24,18 @@
     padding: 8px 25px;
     border-radius: 5px;
     font-size: 15px;
+    margin-top: 13px;
+}
+.choose-again-btn {
+    background-color: #31C8C9;
+    color: #FFF;
+    border: none;
+    outline: none;
+    padding: 8px 25px;
+    border-radius: 5px;
+    font-size: 15px;
+    margin-top: 20px;
+
 }
 
 

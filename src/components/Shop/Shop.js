@@ -42,6 +42,9 @@ const Shop = () => {
                 <button className='choose-btn'>
                     <p>CHOOSE 1 FOR ME</p>
                 </button>
+                <button className='choose-again-btn'>
+                    <p>CHOOSE AGAIN</p>
+                </button>
               
             </div>
             
