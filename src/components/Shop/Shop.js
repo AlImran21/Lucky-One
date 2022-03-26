@@ -17,7 +17,7 @@ const Shop = () => {
         let newOrders = [...orders, product];
         setOrders (newOrders);
 
-    }
+    }  
 
     return (
         <div className='shop-container'>
